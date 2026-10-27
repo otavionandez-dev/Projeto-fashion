@@ -1,0 +1,55 @@
+*{
+    box-sizing:border-box ;
+}
+
+.secao{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.secao2{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.container{
+    margin: 10px;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+}
+
+.container-bloco{
+    margin: 40px;
+    width: 100%;
+    height: 100%;
+    background-color: #003d52;
+    font-size: 22px;
+    color: white;
+}
+
+.containercontatos{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.maps{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.rodape{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    letter-spacing: 6px;
+    margin: 0px 20px;
+}
